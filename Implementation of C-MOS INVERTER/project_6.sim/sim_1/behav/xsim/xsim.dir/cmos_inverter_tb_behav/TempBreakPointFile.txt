@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+28 true C:/Users/sathw/desktop/vlsi/project_6/project_6.srcs/sources_1/new/cmos_inverter.v
