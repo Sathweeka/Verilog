@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Multiplier_2b_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Multiplier_2b_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="999999216fs"></ZoomStartTime>
+      <ZoomEndTime time="1000005627fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="142"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/Multiplier_2b_tb/M0" type="logic">
+      <obj_property name="ElementShortName">M0</obj_property>
+      <obj_property name="ObjectShortName">M0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_2b_tb/M1" type="logic">
+      <obj_property name="ElementShortName">M1</obj_property>
+      <obj_property name="ObjectShortName">M1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_2b_tb/C" type="logic">
+      <obj_property name="ElementShortName">C</obj_property>
+      <obj_property name="ObjectShortName">C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_2b_tb/M2" type="logic">
+      <obj_property name="ElementShortName">M2</obj_property>
+      <obj_property name="ObjectShortName">M2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_2b_tb/M3" type="logic">
+      <obj_property name="ElementShortName">M3</obj_property>
+      <obj_property name="ObjectShortName">M3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_2b_tb/A0" type="logic">
+      <obj_property name="ElementShortName">A0</obj_property>
+      <obj_property name="ObjectShortName">A0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_2b_tb/A1" type="logic">
+      <obj_property name="ElementShortName">A1</obj_property>
+      <obj_property name="ObjectShortName">A1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_2b_tb/B0" type="logic">
+      <obj_property name="ElementShortName">B0</obj_property>
+      <obj_property name="ObjectShortName">B0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_2b_tb/B1" type="logic">
+      <obj_property name="ElementShortName">B1</obj_property>
+      <obj_property name="ObjectShortName">B1</obj_property>
+   </wvobject>
+</wave_config>
