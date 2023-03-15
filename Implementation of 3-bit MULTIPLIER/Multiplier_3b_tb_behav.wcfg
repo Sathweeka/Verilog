@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Multiplier_3b_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Multiplier_3b_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="641000001fs"></ZoomEndTime>
+      <Cursor1Time time="250000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="142"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/Multiplier_3b_tb/P0" type="logic">
+      <obj_property name="ElementShortName">P0</obj_property>
+      <obj_property name="ObjectShortName">P0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_3b_tb/P1" type="logic">
+      <obj_property name="ElementShortName">P1</obj_property>
+      <obj_property name="ObjectShortName">P1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_3b_tb/P2" type="logic">
+      <obj_property name="ElementShortName">P2</obj_property>
+      <obj_property name="ObjectShortName">P2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_3b_tb/P3" type="logic">
+      <obj_property name="ElementShortName">P3</obj_property>
+      <obj_property name="ObjectShortName">P3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_3b_tb/P4" type="logic">
+      <obj_property name="ElementShortName">P4</obj_property>
+      <obj_property name="ObjectShortName">P4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_3b_tb/P5" type="logic">
+      <obj_property name="ElementShortName">P5</obj_property>
+      <obj_property name="ObjectShortName">P5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_3b_tb/A0" type="logic">
+      <obj_property name="ElementShortName">A0</obj_property>
+      <obj_property name="ObjectShortName">A0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_3b_tb/A1" type="logic">
+      <obj_property name="ElementShortName">A1</obj_property>
+      <obj_property name="ObjectShortName">A1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_3b_tb/A2" type="logic">
+      <obj_property name="ElementShortName">A2</obj_property>
+      <obj_property name="ObjectShortName">A2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_3b_tb/B0" type="logic">
+      <obj_property name="ElementShortName">B0</obj_property>
+      <obj_property name="ObjectShortName">B0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_3b_tb/B1" type="logic">
+      <obj_property name="ElementShortName">B1</obj_property>
+      <obj_property name="ObjectShortName">B1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Multiplier_3b_tb/B2" type="logic">
+      <obj_property name="ElementShortName">B2</obj_property>
+      <obj_property name="ObjectShortName">B2</obj_property>
+   </wvobject>
+</wave_config>
